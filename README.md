@@ -59,7 +59,7 @@ Also, I uploaded the book about the materials of Advanced Computing and Big Data
 ### NMP: **2106759880**
 
 # Many Thanks
-### Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
+#### Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
 
-### Dr. **Risman Adnan**, M.Si.
+#### Dr. **Risman Adnan**, M.Si.
 
