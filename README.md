@@ -49,9 +49,10 @@ I make this projects as as book chapters including the following:
            4.4: Summary
            
 
-I submitted all the chapters as codes (Git and Colab), in addition to upload a documentation (PDF) containing all the chapters in order as book.
+I submitted all the chapters as codes (Git and Colab), in addition to upload a documentation (PDF) containing all the chapters in order as book.  In name **<a href='https://github.com/abdullahui/Final-Exam-KLBD/blob/main/Documentation%20as%20book%20chapters%20of%20Final%20Exam%20Practice.pdf'>Documentation as book chapters of Final Exam Practice</a>**
 
-Also, I uploaded the book about the materials of Advanced Computing and Big Data course as documentation (PDF).
+
+Also, I uploaded the book about the materials of Advanced Computing and Big Data course as documentation (PDF).  In name **<a href='https://github.com/abdullahui/Final-Exam-KLBD/blob/main/Book%20KLBD.pdf'>Book KLBD</a>**
 
 # Student
 Name: **Abdullah Hassan**
