@@ -54,12 +54,12 @@ I submitted all the chapters as codes (Git and Colab), in addition to upload a d
 Also, I uploaded the book about the materials of Advanced Computing and Big Data course as documentation (PDF).
 
 # Student
-### Name: **Abdullah Hassan**
+Name: **Abdullah Hassan**
 
-### NMP: **2106759880**
+NMP: **2106759880**
 
 # Many Thanks
-#### Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
+Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
 
-#### Dr. **Risman Adnan**, M.Si.
+Dr. **Risman Adnan**, M.Si.
 
