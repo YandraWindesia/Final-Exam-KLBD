@@ -51,13 +51,15 @@ I make this projects as as book chapters including the following:
 
 I submitted all the chapters as codes (Git and Colab), in addition to upload a documentation (PDF) containing all the chapters in order as book.
 
-Also, I uploaded the book about the materials of Advanced Computing and Big Data course, uploaded as documentation (PDF).
+Also, I uploaded the book about the materials of Advanced Computing and Big Data course as documentation (PDF).
 
 # Student
-Name: Abdullah Hassan
-NMP: 2106759880
+### Name: **Abdullah Hassan**
+
+### NMP: **2106759880**
 
 # Many Thanks
-Prof. Alhadi B., S.Si., M.Kom., Ph.D.
-Dr. Risman Adnan, M.Si.
+### Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
+
+### Dr. **Risman Adnan**, M.Si.
 
